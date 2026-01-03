@@ -1,0 +1,207 @@
+[
+{
+  "directory": "/home/mattay350/Documents/Project/ccls/build/Debug",
+  "command": "/usr/bin/c++  -I/home/mattay350/Documents/Project/ccls/src -isystem /home/mattay350/Documents/Project/ccls/third_party -isystem /usr/lib/llvm-14/include -isystem /home/mattay350/Documents/Project/ccls/third_party/rapidjson/include -g -Wall -Wno-sign-compare -Wno-return-type -Wno-unused-result -std=c++17 -o CMakeFiles/ccls.dir/third_party/siphash.cc.o -c /home/mattay350/Documents/Project/ccls/third_party/siphash.cc",
+  "file": "/home/mattay350/Documents/Project/ccls/third_party/siphash.cc"
+},
+{
+  "directory": "/home/mattay350/Documents/Project/ccls/build/Debug",
+  "command": "/usr/bin/c++  -I/home/mattay350/Documents/Project/ccls/src -isystem /home/mattay350/Documents/Project/ccls/third_party -isystem /usr/lib/llvm-14/include -isystem /home/mattay350/Documents/Project/ccls/third_party/rapidjson/include -g -Wall -Wno-sign-compare -Wno-return-type -Wno-unused-result -std=c++17 -o CMakeFiles/ccls.dir/src/clang_tu.cc.o -c /home/mattay350/Documents/Project/ccls/src/clang_tu.cc",
+  "file": "/home/mattay350/Documents/Project/ccls/src/clang_tu.cc"
+},
+{
+  "directory": "/home/mattay350/Documents/Project/ccls/build/Debug",
+  "command": "/usr/bin/c++  -I/home/mattay350/Documents/Project/ccls/src -isystem /home/mattay350/Documents/Project/ccls/third_party -isystem /usr/lib/llvm-14/include -isystem /home/mattay350/Documents/Project/ccls/third_party/rapidjson/include -g -Wall -Wno-sign-compare -Wno-return-type -Wno-unused-result -std=c++17 -o CMakeFiles/ccls.dir/src/config.cc.o -c /home/mattay350/Documents/Project/ccls/src/config.cc",
+  "file": "/home/mattay350/Documents/Project/ccls/src/config.cc"
+},
+{
+  "directory": "/home/mattay350/Documents/Project/ccls/build/Debug",
+  "command": "/usr/bin/c++  -I/home/mattay350/Documents/Project/ccls/src -isystem /home/mattay350/Documents/Project/ccls/third_party -isystem /usr/lib/llvm-14/include -isystem /home/mattay350/Documents/Project/ccls/third_party/rapidjson/include -g -Wall -Wno-sign-compare -Wno-return-type -Wno-unused-result -std=c++17 -o CMakeFiles/ccls.dir/src/filesystem.cc.o -c /home/mattay350/Documents/Project/ccls/src/filesystem.cc",
+  "file": "/home/mattay350/Documents/Project/ccls/src/filesystem.cc"
+},
+{
+  "directory": "/home/mattay350/Documents/Project/ccls/build/Debug",
+  "command": "/usr/bin/c++  -I/home/mattay350/Documents/Project/ccls/src -isystem /home/mattay350/Documents/Project/ccls/third_party -isystem /usr/lib/llvm-14/include -isystem /home/mattay350/Documents/Project/ccls/third_party/rapidjson/include -g -Wall -Wno-sign-compare -Wno-return-type -Wno-unused-result -std=c++17 -o CMakeFiles/ccls.dir/src/fuzzy_match.cc.o -c /home/mattay350/Documents/Project/ccls/src/fuzzy_match.cc",
+  "file": "/home/mattay350/Documents/Project/ccls/src/fuzzy_match.cc"
+},
+{
+  "directory": "/home/mattay350/Documents/Project/ccls/build/Debug",
+  "command": "/usr/bin/c++  -DCCLS_VERSION=\\\"0.20250815.1-2-gd31cc9f0\\\" -I/home/mattay350/Documents/Project/ccls/src -isystem /home/mattay350/Documents/Project/ccls/third_party -isystem /usr/lib/llvm-14/include -isystem /home/mattay350/Documents/Project/ccls/third_party/rapidjson/include -g -Wall -Wno-sign-compare -Wno-return-type -Wno-unused-result -std=c++17 -o CMakeFiles/ccls.dir/src/main.cc.o -c /home/mattay350/Documents/Project/ccls/src/main.cc",
+  "file": "/home/mattay350/Documents/Project/ccls/src/main.cc"
+},
+{
+  "directory": "/home/mattay350/Documents/Project/ccls/build/Debug",
+  "command": "/usr/bin/c++  -I/home/mattay350/Documents/Project/ccls/src -isystem /home/mattay350/Documents/Project/ccls/third_party -isystem /usr/lib/llvm-14/include -isystem /home/mattay350/Documents/Project/ccls/third_party/rapidjson/include -g -Wall -Wno-sign-compare -Wno-return-type -Wno-unused-result -std=c++17 -o CMakeFiles/ccls.dir/src/indexer.cc.o -c /home/mattay350/Documents/Project/ccls/src/indexer.cc",
+  "file": "/home/mattay350/Documents/Project/ccls/src/indexer.cc"
+},
+{
+  "directory": "/home/mattay350/Documents/Project/ccls/build/Debug",
+  "command": "/usr/bin/c++  -I/home/mattay350/Documents/Project/ccls/src -isystem /home/mattay350/Documents/Project/ccls/third_party -isystem /usr/lib/llvm-14/include -isystem /home/mattay350/Documents/Project/ccls/third_party/rapidjson/include -g -Wall -Wno-sign-compare -Wno-return-type -Wno-unused-result -std=c++17 -o CMakeFiles/ccls.dir/src/log.cc.o -c /home/mattay350/Documents/Project/ccls/src/log.cc",
+  "file": "/home/mattay350/Documents/Project/ccls/src/log.cc"
+},
+{
+  "directory": "/home/mattay350/Documents/Project/ccls/build/Debug",
+  "command": "/usr/bin/c++  -I/home/mattay350/Documents/Project/ccls/src -isystem /home/mattay350/Documents/Project/ccls/third_party -isystem /usr/lib/llvm-14/include -isystem /home/mattay350/Documents/Project/ccls/third_party/rapidjson/include -g -Wall -Wno-sign-compare -Wno-return-type -Wno-unused-result -std=c++17 -o CMakeFiles/ccls.dir/src/lsp.cc.o -c /home/mattay350/Documents/Project/ccls/src/lsp.cc",
+  "file": "/home/mattay350/Documents/Project/ccls/src/lsp.cc"
+},
+{
+  "directory": "/home/mattay350/Documents/Project/ccls/build/Debug",
+  "command": "/usr/bin/c++  -I/home/mattay350/Documents/Project/ccls/src -isystem /home/mattay350/Documents/Project/ccls/third_party -isystem /usr/lib/llvm-14/include -isystem /home/mattay350/Documents/Project/ccls/third_party/rapidjson/include -g -Wall -Wno-sign-compare -Wno-return-type -Wno-unused-result -std=c++17 -o CMakeFiles/ccls.dir/src/message_handler.cc.o -c /home/mattay350/Documents/Project/ccls/src/message_handler.cc",
+  "file": "/home/mattay350/Documents/Project/ccls/src/message_handler.cc"
+},
+{
+  "directory": "/home/mattay350/Documents/Project/ccls/build/Debug",
+  "command": "/usr/bin/c++  -I/home/mattay350/Documents/Project/ccls/src -isystem /home/mattay350/Documents/Project/ccls/third_party -isystem /usr/lib/llvm-14/include -isystem /home/mattay350/Documents/Project/ccls/third_party/rapidjson/include -g -Wall -Wno-sign-compare -Wno-return-type -Wno-unused-result -std=c++17 -o CMakeFiles/ccls.dir/src/pipeline.cc.o -c /home/mattay350/Documents/Project/ccls/src/pipeline.cc",
+  "file": "/home/mattay350/Documents/Project/ccls/src/pipeline.cc"
+},
+{
+  "directory": "/home/mattay350/Documents/Project/ccls/build/Debug",
+  "command": "/usr/bin/c++  -I/home/mattay350/Documents/Project/ccls/src -isystem /home/mattay350/Documents/Project/ccls/third_party -isystem /usr/lib/llvm-14/include -isystem /home/mattay350/Documents/Project/ccls/third_party/rapidjson/include -g -Wall -Wno-sign-compare -Wno-return-type -Wno-unused-result -std=c++17 -o CMakeFiles/ccls.dir/src/platform_posix.cc.o -c /home/mattay350/Documents/Project/ccls/src/platform_posix.cc",
+  "file": "/home/mattay350/Documents/Project/ccls/src/platform_posix.cc"
+},
+{
+  "directory": "/home/mattay350/Documents/Project/ccls/build/Debug",
+  "command": "/usr/bin/c++  -I/home/mattay350/Documents/Project/ccls/src -isystem /home/mattay350/Documents/Project/ccls/third_party -isystem /usr/lib/llvm-14/include -isystem /home/mattay350/Documents/Project/ccls/third_party/rapidjson/include -g -Wall -Wno-sign-compare -Wno-return-type -Wno-unused-result -std=c++17 -o CMakeFiles/ccls.dir/src/platform_win.cc.o -c /home/mattay350/Documents/Project/ccls/src/platform_win.cc",
+  "file": "/home/mattay350/Documents/Project/ccls/src/platform_win.cc"
+},
+{
+  "directory": "/home/mattay350/Documents/Project/ccls/build/Debug",
+  "command": "/usr/bin/c++  -I/home/mattay350/Documents/Project/ccls/src -isystem /home/mattay350/Documents/Project/ccls/third_party -isystem /usr/lib/llvm-14/include -isystem /home/mattay350/Documents/Project/ccls/third_party/rapidjson/include -g -Wall -Wno-sign-compare -Wno-return-type -Wno-unused-result -std=c++17 -o CMakeFiles/ccls.dir/src/position.cc.o -c /home/mattay350/Documents/Project/ccls/src/position.cc",
+  "file": "/home/mattay350/Documents/Project/ccls/src/position.cc"
+},
+{
+  "directory": "/home/mattay350/Documents/Project/ccls/build/Debug",
+  "command": "/usr/bin/c++  -I/home/mattay350/Documents/Project/ccls/src -isystem /home/mattay350/Documents/Project/ccls/third_party -isystem /usr/lib/llvm-14/include -isystem /home/mattay350/Documents/Project/ccls/third_party/rapidjson/include -g -Wall -Wno-sign-compare -Wno-return-type -Wno-unused-result -std=c++17 -o CMakeFiles/ccls.dir/src/project.cc.o -c /home/mattay350/Documents/Project/ccls/src/project.cc",
+  "file": "/home/mattay350/Documents/Project/ccls/src/project.cc"
+},
+{
+  "directory": "/home/mattay350/Documents/Project/ccls/build/Debug",
+  "command": "/usr/bin/c++  -I/home/mattay350/Documents/Project/ccls/src -isystem /home/mattay350/Documents/Project/ccls/third_party -isystem /usr/lib/llvm-14/include -isystem /home/mattay350/Documents/Project/ccls/third_party/rapidjson/include -g -Wall -Wno-sign-compare -Wno-return-type -Wno-unused-result -std=c++17 -o CMakeFiles/ccls.dir/src/query.cc.o -c /home/mattay350/Documents/Project/ccls/src/query.cc",
+  "file": "/home/mattay350/Documents/Project/ccls/src/query.cc"
+},
+{
+  "directory": "/home/mattay350/Documents/Project/ccls/build/Debug",
+  "command": "/usr/bin/c++  -I/home/mattay350/Documents/Project/ccls/src -isystem /home/mattay350/Documents/Project/ccls/third_party -isystem /usr/lib/llvm-14/include -isystem /home/mattay350/Documents/Project/ccls/third_party/rapidjson/include -g -Wall -Wno-sign-compare -Wno-return-type -Wno-unused-result -std=c++17 -o CMakeFiles/ccls.dir/src/sema_manager.cc.o -c /home/mattay350/Documents/Project/ccls/src/sema_manager.cc",
+  "file": "/home/mattay350/Documents/Project/ccls/src/sema_manager.cc"
+},
+{
+  "directory": "/home/mattay350/Documents/Project/ccls/build/Debug",
+  "command": "/usr/bin/c++  -I/home/mattay350/Documents/Project/ccls/src -isystem /home/mattay350/Documents/Project/ccls/third_party -isystem /usr/lib/llvm-14/include -isystem /home/mattay350/Documents/Project/ccls/third_party/rapidjson/include -g -Wall -Wno-sign-compare -Wno-return-type -Wno-unused-result -std=c++17 -o CMakeFiles/ccls.dir/src/serializer.cc.o -c /home/mattay350/Documents/Project/ccls/src/serializer.cc",
+  "file": "/home/mattay350/Documents/Project/ccls/src/serializer.cc"
+},
+{
+  "directory": "/home/mattay350/Documents/Project/ccls/build/Debug",
+  "command": "/usr/bin/c++  -I/home/mattay350/Documents/Project/ccls/src -isystem /home/mattay350/Documents/Project/ccls/third_party -isystem /usr/lib/llvm-14/include -isystem /home/mattay350/Documents/Project/ccls/third_party/rapidjson/include -g -Wall -Wno-sign-compare -Wno-return-type -Wno-unused-result -std=c++17 -o CMakeFiles/ccls.dir/src/test.cc.o -c /home/mattay350/Documents/Project/ccls/src/test.cc",
+  "file": "/home/mattay350/Documents/Project/ccls/src/test.cc"
+},
+{
+  "directory": "/home/mattay350/Documents/Project/ccls/build/Debug",
+  "command": "/usr/bin/c++  -DCLANG_RESOURCE_DIRECTORY=\"R\\\"(/usr/lib/llvm-14/lib/clang/14.0.0)\\\"\" -I/home/mattay350/Documents/Project/ccls/src -isystem /home/mattay350/Documents/Project/ccls/third_party -isystem /usr/lib/llvm-14/include -isystem /home/mattay350/Documents/Project/ccls/third_party/rapidjson/include -g -Wall -Wno-sign-compare -Wno-return-type -Wno-unused-result -std=c++17 -o CMakeFiles/ccls.dir/src/utils.cc.o -c /home/mattay350/Documents/Project/ccls/src/utils.cc",
+  "file": "/home/mattay350/Documents/Project/ccls/src/utils.cc"
+},
+{
+  "directory": "/home/mattay350/Documents/Project/ccls/build/Debug",
+  "command": "/usr/bin/c++  -I/home/mattay350/Documents/Project/ccls/src -isystem /home/mattay350/Documents/Project/ccls/third_party -isystem /usr/lib/llvm-14/include -isystem /home/mattay350/Documents/Project/ccls/third_party/rapidjson/include -g -Wall -Wno-sign-compare -Wno-return-type -Wno-unused-result -std=c++17 -o CMakeFiles/ccls.dir/src/working_files.cc.o -c /home/mattay350/Documents/Project/ccls/src/working_files.cc",
+  "file": "/home/mattay350/Documents/Project/ccls/src/working_files.cc"
+},
+{
+  "directory": "/home/mattay350/Documents/Project/ccls/build/Debug",
+  "command": "/usr/bin/c++  -I/home/mattay350/Documents/Project/ccls/src -isystem /home/mattay350/Documents/Project/ccls/third_party -isystem /usr/lib/llvm-14/include -isystem /home/mattay350/Documents/Project/ccls/third_party/rapidjson/include -g -Wall -Wno-sign-compare -Wno-return-type -Wno-unused-result -std=c++17 -o CMakeFiles/ccls.dir/src/messages/ccls_call.cc.o -c /home/mattay350/Documents/Project/ccls/src/messages/ccls_call.cc",
+  "file": "/home/mattay350/Documents/Project/ccls/src/messages/ccls_call.cc"
+},
+{
+  "directory": "/home/mattay350/Documents/Project/ccls/build/Debug",
+  "command": "/usr/bin/c++  -I/home/mattay350/Documents/Project/ccls/src -isystem /home/mattay350/Documents/Project/ccls/third_party -isystem /usr/lib/llvm-14/include -isystem /home/mattay350/Documents/Project/ccls/third_party/rapidjson/include -g -Wall -Wno-sign-compare -Wno-return-type -Wno-unused-result -std=c++17 -o CMakeFiles/ccls.dir/src/messages/ccls_info.cc.o -c /home/mattay350/Documents/Project/ccls/src/messages/ccls_info.cc",
+  "file": "/home/mattay350/Documents/Project/ccls/src/messages/ccls_info.cc"
+},
+{
+  "directory": "/home/mattay350/Documents/Project/ccls/build/Debug",
+  "command": "/usr/bin/c++  -I/home/mattay350/Documents/Project/ccls/src -isystem /home/mattay350/Documents/Project/ccls/third_party -isystem /usr/lib/llvm-14/include -isystem /home/mattay350/Documents/Project/ccls/third_party/rapidjson/include -g -Wall -Wno-sign-compare -Wno-return-type -Wno-unused-result -std=c++17 -o CMakeFiles/ccls.dir/src/messages/ccls_inheritance.cc.o -c /home/mattay350/Documents/Project/ccls/src/messages/ccls_inheritance.cc",
+  "file": "/home/mattay350/Documents/Project/ccls/src/messages/ccls_inheritance.cc"
+},
+{
+  "directory": "/home/mattay350/Documents/Project/ccls/build/Debug",
+  "command": "/usr/bin/c++  -I/home/mattay350/Documents/Project/ccls/src -isystem /home/mattay350/Documents/Project/ccls/third_party -isystem /usr/lib/llvm-14/include -isystem /home/mattay350/Documents/Project/ccls/third_party/rapidjson/include -g -Wall -Wno-sign-compare -Wno-return-type -Wno-unused-result -std=c++17 -o CMakeFiles/ccls.dir/src/messages/ccls_member.cc.o -c /home/mattay350/Documents/Project/ccls/src/messages/ccls_member.cc",
+  "file": "/home/mattay350/Documents/Project/ccls/src/messages/ccls_member.cc"
+},
+{
+  "directory": "/home/mattay350/Documents/Project/ccls/build/Debug",
+  "command": "/usr/bin/c++  -I/home/mattay350/Documents/Project/ccls/src -isystem /home/mattay350/Documents/Project/ccls/third_party -isystem /usr/lib/llvm-14/include -isystem /home/mattay350/Documents/Project/ccls/third_party/rapidjson/include -g -Wall -Wno-sign-compare -Wno-return-type -Wno-unused-result -std=c++17 -o CMakeFiles/ccls.dir/src/messages/ccls_navigate.cc.o -c /home/mattay350/Documents/Project/ccls/src/messages/ccls_navigate.cc",
+  "file": "/home/mattay350/Documents/Project/ccls/src/messages/ccls_navigate.cc"
+},
+{
+  "directory": "/home/mattay350/Documents/Project/ccls/build/Debug",
+  "command": "/usr/bin/c++  -I/home/mattay350/Documents/Project/ccls/src -isystem /home/mattay350/Documents/Project/ccls/third_party -isystem /usr/lib/llvm-14/include -isystem /home/mattay350/Documents/Project/ccls/third_party/rapidjson/include -g -Wall -Wno-sign-compare -Wno-return-type -Wno-unused-result -std=c++17 -o CMakeFiles/ccls.dir/src/messages/ccls_reload.cc.o -c /home/mattay350/Documents/Project/ccls/src/messages/ccls_reload.cc",
+  "file": "/home/mattay350/Documents/Project/ccls/src/messages/ccls_reload.cc"
+},
+{
+  "directory": "/home/mattay350/Documents/Project/ccls/build/Debug",
+  "command": "/usr/bin/c++  -I/home/mattay350/Documents/Project/ccls/src -isystem /home/mattay350/Documents/Project/ccls/third_party -isystem /usr/lib/llvm-14/include -isystem /home/mattay350/Documents/Project/ccls/third_party/rapidjson/include -g -Wall -Wno-sign-compare -Wno-return-type -Wno-unused-result -std=c++17 -o CMakeFiles/ccls.dir/src/messages/ccls_vars.cc.o -c /home/mattay350/Documents/Project/ccls/src/messages/ccls_vars.cc",
+  "file": "/home/mattay350/Documents/Project/ccls/src/messages/ccls_vars.cc"
+},
+{
+  "directory": "/home/mattay350/Documents/Project/ccls/build/Debug",
+  "command": "/usr/bin/c++  -DCCLS_VERSION=\\\"0.20250815.1-2-gd31cc9f0\\\" -I/home/mattay350/Documents/Project/ccls/src -isystem /home/mattay350/Documents/Project/ccls/third_party -isystem /usr/lib/llvm-14/include -isystem /home/mattay350/Documents/Project/ccls/third_party/rapidjson/include -g -Wall -Wno-sign-compare -Wno-return-type -Wno-unused-result -std=c++17 -o CMakeFiles/ccls.dir/src/messages/initialize.cc.o -c /home/mattay350/Documents/Project/ccls/src/messages/initialize.cc",
+  "file": "/home/mattay350/Documents/Project/ccls/src/messages/initialize.cc"
+},
+{
+  "directory": "/home/mattay350/Documents/Project/ccls/build/Debug",
+  "command": "/usr/bin/c++  -I/home/mattay350/Documents/Project/ccls/src -isystem /home/mattay350/Documents/Project/ccls/third_party -isystem /usr/lib/llvm-14/include -isystem /home/mattay350/Documents/Project/ccls/third_party/rapidjson/include -g -Wall -Wno-sign-compare -Wno-return-type -Wno-unused-result -std=c++17 -o CMakeFiles/ccls.dir/src/messages/textDocument_code.cc.o -c /home/mattay350/Documents/Project/ccls/src/messages/textDocument_code.cc",
+  "file": "/home/mattay350/Documents/Project/ccls/src/messages/textDocument_code.cc"
+},
+{
+  "directory": "/home/mattay350/Documents/Project/ccls/build/Debug",
+  "command": "/usr/bin/c++  -I/home/mattay350/Documents/Project/ccls/src -isystem /home/mattay350/Documents/Project/ccls/third_party -isystem /usr/lib/llvm-14/include -isystem /home/mattay350/Documents/Project/ccls/third_party/rapidjson/include -g -Wall -Wno-sign-compare -Wno-return-type -Wno-unused-result -std=c++17 -o CMakeFiles/ccls.dir/src/messages/textDocument_completion.cc.o -c /home/mattay350/Documents/Project/ccls/src/messages/textDocument_completion.cc",
+  "file": "/home/mattay350/Documents/Project/ccls/src/messages/textDocument_completion.cc"
+},
+{
+  "directory": "/home/mattay350/Documents/Project/ccls/build/Debug",
+  "command": "/usr/bin/c++  -I/home/mattay350/Documents/Project/ccls/src -isystem /home/mattay350/Documents/Project/ccls/third_party -isystem /usr/lib/llvm-14/include -isystem /home/mattay350/Documents/Project/ccls/third_party/rapidjson/include -g -Wall -Wno-sign-compare -Wno-return-type -Wno-unused-result -std=c++17 -o CMakeFiles/ccls.dir/src/messages/textDocument_definition.cc.o -c /home/mattay350/Documents/Project/ccls/src/messages/textDocument_definition.cc",
+  "file": "/home/mattay350/Documents/Project/ccls/src/messages/textDocument_definition.cc"
+},
+{
+  "directory": "/home/mattay350/Documents/Project/ccls/build/Debug",
+  "command": "/usr/bin/c++  -I/home/mattay350/Documents/Project/ccls/src -isystem /home/mattay350/Documents/Project/ccls/third_party -isystem /usr/lib/llvm-14/include -isystem /home/mattay350/Documents/Project/ccls/third_party/rapidjson/include -g -Wall -Wno-sign-compare -Wno-return-type -Wno-unused-result -std=c++17 -o CMakeFiles/ccls.dir/src/messages/textDocument_did.cc.o -c /home/mattay350/Documents/Project/ccls/src/messages/textDocument_did.cc",
+  "file": "/home/mattay350/Documents/Project/ccls/src/messages/textDocument_did.cc"
+},
+{
+  "directory": "/home/mattay350/Documents/Project/ccls/build/Debug",
+  "command": "/usr/bin/c++  -I/home/mattay350/Documents/Project/ccls/src -isystem /home/mattay350/Documents/Project/ccls/third_party -isystem /usr/lib/llvm-14/include -isystem /home/mattay350/Documents/Project/ccls/third_party/rapidjson/include -g -Wall -Wno-sign-compare -Wno-return-type -Wno-unused-result -std=c++17 -o CMakeFiles/ccls.dir/src/messages/textDocument_foldingRange.cc.o -c /home/mattay350/Documents/Project/ccls/src/messages/textDocument_foldingRange.cc",
+  "file": "/home/mattay350/Documents/Project/ccls/src/messages/textDocument_foldingRange.cc"
+},
+{
+  "directory": "/home/mattay350/Documents/Project/ccls/build/Debug",
+  "command": "/usr/bin/c++  -I/home/mattay350/Documents/Project/ccls/src -isystem /home/mattay350/Documents/Project/ccls/third_party -isystem /usr/lib/llvm-14/include -isystem /home/mattay350/Documents/Project/ccls/third_party/rapidjson/include -g -Wall -Wno-sign-compare -Wno-return-type -Wno-unused-result -std=c++17 -o CMakeFiles/ccls.dir/src/messages/textDocument_formatting.cc.o -c /home/mattay350/Documents/Project/ccls/src/messages/textDocument_formatting.cc",
+  "file": "/home/mattay350/Documents/Project/ccls/src/messages/textDocument_formatting.cc"
+},
+{
+  "directory": "/home/mattay350/Documents/Project/ccls/build/Debug",
+  "command": "/usr/bin/c++  -I/home/mattay350/Documents/Project/ccls/src -isystem /home/mattay350/Documents/Project/ccls/third_party -isystem /usr/lib/llvm-14/include -isystem /home/mattay350/Documents/Project/ccls/third_party/rapidjson/include -g -Wall -Wno-sign-compare -Wno-return-type -Wno-unused-result -std=c++17 -o CMakeFiles/ccls.dir/src/messages/textDocument_document.cc.o -c /home/mattay350/Documents/Project/ccls/src/messages/textDocument_document.cc",
+  "file": "/home/mattay350/Documents/Project/ccls/src/messages/textDocument_document.cc"
+},
+{
+  "directory": "/home/mattay350/Documents/Project/ccls/build/Debug",
+  "command": "/usr/bin/c++  -I/home/mattay350/Documents/Project/ccls/src -isystem /home/mattay350/Documents/Project/ccls/third_party -isystem /usr/lib/llvm-14/include -isystem /home/mattay350/Documents/Project/ccls/third_party/rapidjson/include -g -Wall -Wno-sign-compare -Wno-return-type -Wno-unused-result -std=c++17 -o CMakeFiles/ccls.dir/src/messages/textDocument_hover.cc.o -c /home/mattay350/Documents/Project/ccls/src/messages/textDocument_hover.cc",
+  "file": "/home/mattay350/Documents/Project/ccls/src/messages/textDocument_hover.cc"
+},
+{
+  "directory": "/home/mattay350/Documents/Project/ccls/build/Debug",
+  "command": "/usr/bin/c++  -I/home/mattay350/Documents/Project/ccls/src -isystem /home/mattay350/Documents/Project/ccls/third_party -isystem /usr/lib/llvm-14/include -isystem /home/mattay350/Documents/Project/ccls/third_party/rapidjson/include -g -Wall -Wno-sign-compare -Wno-return-type -Wno-unused-result -std=c++17 -o CMakeFiles/ccls.dir/src/messages/textDocument_references.cc.o -c /home/mattay350/Documents/Project/ccls/src/messages/textDocument_references.cc",
+  "file": "/home/mattay350/Documents/Project/ccls/src/messages/textDocument_references.cc"
+},
+{
+  "directory": "/home/mattay350/Documents/Project/ccls/build/Debug",
+  "command": "/usr/bin/c++  -I/home/mattay350/Documents/Project/ccls/src -isystem /home/mattay350/Documents/Project/ccls/third_party -isystem /usr/lib/llvm-14/include -isystem /home/mattay350/Documents/Project/ccls/third_party/rapidjson/include -g -Wall -Wno-sign-compare -Wno-return-type -Wno-unused-result -std=c++17 -o CMakeFiles/ccls.dir/src/messages/textDocument_rename.cc.o -c /home/mattay350/Documents/Project/ccls/src/messages/textDocument_rename.cc",
+  "file": "/home/mattay350/Documents/Project/ccls/src/messages/textDocument_rename.cc"
+},
+{
+  "directory": "/home/mattay350/Documents/Project/ccls/build/Debug",
+  "command": "/usr/bin/c++  -I/home/mattay350/Documents/Project/ccls/src -isystem /home/mattay350/Documents/Project/ccls/third_party -isystem /usr/lib/llvm-14/include -isystem /home/mattay350/Documents/Project/ccls/third_party/rapidjson/include -g -Wall -Wno-sign-compare -Wno-return-type -Wno-unused-result -std=c++17 -o CMakeFiles/ccls.dir/src/messages/textDocument_signatureHelp.cc.o -c /home/mattay350/Documents/Project/ccls/src/messages/textDocument_signatureHelp.cc",
+  "file": "/home/mattay350/Documents/Project/ccls/src/messages/textDocument_signatureHelp.cc"
+},
+{
+  "directory": "/home/mattay350/Documents/Project/ccls/build/Debug",
+  "command": "/usr/bin/c++  -I/home/mattay350/Documents/Project/ccls/src -isystem /home/mattay350/Documents/Project/ccls/third_party -isystem /usr/lib/llvm-14/include -isystem /home/mattay350/Documents/Project/ccls/third_party/rapidjson/include -g -Wall -Wno-sign-compare -Wno-return-type -Wno-unused-result -std=c++17 -o CMakeFiles/ccls.dir/src/messages/workspace.cc.o -c /home/mattay350/Documents/Project/ccls/src/messages/workspace.cc",
+  "file": "/home/mattay350/Documents/Project/ccls/src/messages/workspace.cc"
+}
+]
